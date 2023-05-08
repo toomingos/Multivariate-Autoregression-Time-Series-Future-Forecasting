@@ -1,1 +1,3 @@
-# Multivariate-Autoregression-Time-Series-Medium-Post
+# Multivariate Autoregression Time Series
+
+This repo is for a Medium post.
